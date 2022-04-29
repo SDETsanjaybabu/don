@@ -8,5 +8,6 @@ public class ThirdClassTest {
 	{
 		System.out.println("hi all");
 		System.out.println("Bye all");
+		int i=10;
 	}
 }
